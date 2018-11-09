@@ -1,10 +1,11 @@
-Package: Lab11Gene
+Package: Lab11Gene2
 Version: 0.0
-Date: 2018-11-08
+Date: 2018-11-09
 Title: An S3 Class to Represent a Gene
-Authors@R: person("Awesome", "Student", email = "awesomestudent@illinois.edu",
+Authors@R: person("Lucas", "Roberts", email = "lucasmr2@illinois.edu",
                   role = c("aut", "cre"))
-Maintainer: Awesome Student <awesomestudent@illinois.edu>
+Author: Lucas Roberts
+Maintainer: Lucas Roberts <lucasmr@illinois.edu>
 Description: This is a demonstration package containing an S3 class representing
   a gene, and some methods for it.
 License: GPL-3
